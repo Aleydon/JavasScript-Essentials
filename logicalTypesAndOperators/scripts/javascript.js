@@ -53,3 +53,8 @@ console.log(5 > 2 && 4 < 6);
 console.log(5 >= 5 || 4 > 6 === 10);
 console.log(!true);
 console.log(!false);
+
+// Ternary Operator
+
+console.log("\nTernary Operator");
+console.log(5 > 2 ? "Yes" : "No");
