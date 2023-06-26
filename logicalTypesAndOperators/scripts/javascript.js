@@ -58,3 +58,9 @@ console.log(!false);
 
 console.log("\nTernary Operator");
 console.log(5 > 2 ? "Yes" : "No");
+
+// Empty Values
+
+console.log("\nEmpty Values");
+console.log(null);
+console.log(undefined);
