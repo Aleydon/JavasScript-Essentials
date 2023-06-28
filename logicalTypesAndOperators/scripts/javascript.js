@@ -50,7 +50,7 @@ console.log(5 !== 5);
 
 console.log("\nLogical Operators");
 console.log(5 > 2 && 4 < 6);
-console.log(5 >= 5 || 4 > 6 === 10);
+console.log(5 >= 5 || 4 > 9);
 console.log(!true);
 console.log(!false);
 
