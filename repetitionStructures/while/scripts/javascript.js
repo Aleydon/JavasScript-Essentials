@@ -1,3 +1,5 @@
+// While Structure
+
 let technologies = ["JavaScript", "Typescript", "ReactJS", "Angular", "NextJS"];
 
 let index = -1;
