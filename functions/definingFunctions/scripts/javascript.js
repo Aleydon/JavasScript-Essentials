@@ -18,7 +18,10 @@ const functioWithReturn = function () {
   return "5 - Function with return";
 };
 
+const arrowFunction = () => console.log("6 - Arrow function");
+
 showOnConsole();
 textOnConsole();
 funtionWithParam("Function with parameter");
 console.log(functioWithReturn());
+arrowFunction();
