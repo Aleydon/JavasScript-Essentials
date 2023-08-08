@@ -1,7 +1,11 @@
 let user = {
   name: "",
-  setName: (newName) => (this.name = newName),
-  getName: () => console.log(this.name),
+  setName: function (newName) {
+    return (this.name = newName);
+  },
+  getName: function () {
+    return console.log(this.name);
+  },
 };
 
 user.setName("Roberto Aleydon");
